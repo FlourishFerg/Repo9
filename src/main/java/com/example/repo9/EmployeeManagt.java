@@ -31,7 +31,7 @@ public class EmployeeManagt {
         }
 
         public void addGoal(Goal goal) {
-            goals.add(goal)
+            goals.add(goal);
         }
 
         public void addEvaluation(Evaluation evaluation) {
