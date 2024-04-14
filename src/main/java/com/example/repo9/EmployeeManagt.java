@@ -27,7 +27,7 @@ public class EmployeeManagt {
         // Getters and setters
 
         public void setGoals(List<Goal> goals) {
-            this.goals = goals;
+            this.goals = goalss;
         }
 
         public void addGoal(Goal goal) {
